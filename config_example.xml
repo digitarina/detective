@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.leton.saari.helloworld2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Numeropeli</name>
+<widget id="com.example.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Pelin nimi</name>
     <description>
-        Hello World numeropeli tehty Twinella.
+        Pelin kuvausteksti.
     </description>
-    <author email="mika.letonsaari@gmail.com" href="http://xamk.fi/digitarina">
-        Digitarina-hanke
+    <author email="email@example.com" href="http://omanettiosoite.com/">
+        Nimi
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
